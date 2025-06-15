@@ -1,10 +1,11 @@
-Of course! Based on your project structure and the detailed video transcript, here is a comprehensive `README.md` file. It's structured to be clear, professional, and guide anyone interested in your project.
 
 ---
 
 # Tennis Analysis Project
 
 This project provides a comprehensive, deep-learning-based analysis of tennis matches from video footage. It detects and tracks players and the ball, reconstructs the court, and calculates advanced statistics like ball speed, player speed, distance covered, and shot counts.
+
+![tennis_demo](https://github.com/user-attachments/assets/69101b00-c3d8-41f4-9da2-9478eae0936a)
 
 
 ## Table of Contents
@@ -134,5 +135,4 @@ A CNN was trained using PyTorch to predict the pixel locations of the court's ke
 - [ ] **Pose Estimation**: Integrate human pose estimation to analyze player form (e.g., serve, forehand).
 - [ ] **Multi-Camera Support**: Add functionality to fuse data from multiple camera angles for more accurate 3D tracking.
 
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+---
