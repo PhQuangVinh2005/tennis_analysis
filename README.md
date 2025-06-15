@@ -7,8 +7,6 @@ Of course! Based on your project structure and the detailed video transcript, he
 This project provides a comprehensive, deep-learning-based analysis of tennis matches from video footage. It detects and tracks players and the ball, reconstructs the court, and calculates advanced statistics like ball speed, player speed, distance covered, and shot counts.
 
 
-*(Recommendation: Create a short GIF of your final output and replace the link above to showcase the project's capabilities.)*
-
 ## Table of Contents
 - [Features](#features)
 - [Technology Stack](#technology-stack)
